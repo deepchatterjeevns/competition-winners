@@ -1,4 +1,4 @@
-[<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png'>](https://www.drivendata.org/)
+[<img src='https://s3.amazonaws.com/drivendata-public-assets/logo-white-blue.png' width="600">](https://www.drivendata.org/)
 <br><br>
 
 ## Background
@@ -28,6 +28,11 @@ This repository contains code prodvided by the winners of [competitions](https:/
 | [Power Laws: Optimizing Demand-side Strategies](https://github.com/drivendataorg/power-laws-optimization)
 | [Power Laws: Cold Start Energy Forecasting](https://github.com/drivendataorg/power-laws-cold-start)
 | [Sustainable Industry: Rinse Over Run](https://github.com/drivendataorg/rinse-over-run)
+| [Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery](https://github.com/drivendataorg/open-ai-caribbean)
+| [Hakuna Ma-data: Identify Wildlife on the Serengeti with AI for Earth](https://github.com/drivendataorg/hakuna-madata)
+| [Open Cities AI Challenge: Segmenting Buildings for Disaster Resilience](https://github.com/drivendataorg/open-cities-ai-challenge)
+| [Clog Loss: Advance Alzheimer’s Research with Stall Catchers](https://github.com/drivendataorg/clog-loss-alzheimers-research)
+
 
 <br><br>
 
@@ -41,4 +46,3 @@ To avoid explicitly initializing each submodule, use the `--recursive` flag when
 `git clone --recursive https://github.com/drivendata/competition-winners.git`.
 
 This will download the `competition-winners` repository, as well as the contents of _every_ submodule in the winners repository.
-

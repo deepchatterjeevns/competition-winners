@@ -50,3 +50,15 @@
 [submodule "rinse-over-run"]
 	path = rinse-over-run
 	url = https://github.com/drivendataorg/rinse-over-run
+[submodule "open-ai-caribbean"]
+	path = open-ai-caribbean
+	url = https://github.com/drivendataorg/open-ai-caribbean
+[submodule "hakuna-madata"]
+	path = hakuna-madata
+	url = https://github.com/drivendataorg/hakuna-madata
+[submodule "open-cities-ai-challenge"]
+	path = open-cities-ai-challenge
+	url = https://github.com/drivendataorg/open-cities-ai-challenge
+[submodule "clog-loss-alzheimers-research"]
+	path = clog-loss-alzheimers-research
+	url = https://github.com/drivendataorg/clog-loss-alzheimers-research.git
